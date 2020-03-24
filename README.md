@@ -1,6 +1,7 @@
 Socket IO Chat Application
 
-Serge 101132205 
+Tim Williams 101128581
+Serge Kravtsov 101132205 
 Alec Tozak 101012146
 
 to run:
